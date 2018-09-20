@@ -1,0 +1,30 @@
+_repo: Grave-mounds-and-Their-Contents-A-Manual-of-Arch0xe6ology-as-Exemplified-in-the-Burials-of-th__52906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jewitt, Llewellynn Frederick William
+    birthdate: 1816
+    deathdate: 1886
+    gutenberg_agent_id: '41757'
+    url: http://www.gutenberg.org/2009/agents/41757
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52906'
+  lccn: '05040165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Antiquities'
+- !lcc 'GN'
+- !lcsh 'Megalithic monuments -- Great Britain'
+- !lcsh 'Mounds -- Great Britain'
+- GITenberg
+title: 'Grave-mounds and Their Contents
+
+  A Manual of Archæology, as Exemplified in the Burials of the Celtic, the Romano-British,
+  and the Anglo-Saxon Periods'
+url: http://www.gutenberg.org/ebooks/52906
